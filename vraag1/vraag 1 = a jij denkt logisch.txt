@@ -1,0 +1,3 @@
+vraag 1 = a jij denkt logisch
+
+om te kunnen programmeren moet je logisch kunnen denken
